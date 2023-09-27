@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Lista de Presença" src="#" width="100px" />
+  <img alt="Lista de Presença" src="https://listadepresenca-theta.vercel.app/vite.svg" width="100px" />
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <br />
 
 <p align="center">
-  <a href="https://listadepresenca.vercel.app/" target="_blank">
-    <img align="center" src="https://angogest.vercel.app/assets/listadepresenca.png" alt="banner"/>
+  <a href="https://listadepresenca-theta.vercel.app" target="_blank">
+    <img align="center" src="https://listadepresenca-theta.vercel.app/listadepresenca.png" alt="banner"/>
   </a>
 </p>
 
